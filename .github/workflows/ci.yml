@@ -1,4 +1,4 @@
-name: Demo CI/CD
+name: Demo CI/CD - 2nd
 
 on:
   pull_request:
